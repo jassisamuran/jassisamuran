@@ -64,15 +64,7 @@ DevOps      Docker · Docker Compose · AWS EC2 · Nginx · GitHub Actions
 Languages   Python · JavaScript · TypeScript · C++
 ```
 
----
 
-## 📊 GitHub Stats
-
-![Jaspreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jassisamuran&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f46e5&icon_color=4f46e5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jassisamuran&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4f46e5)
-
----
 
 ## 📫 Connect
 
